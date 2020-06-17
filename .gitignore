@@ -1,0 +1,17 @@
+models/
+mnist_data/
+vae_mlp/
+*.csv
+*.pyc
+* .ipynb_checkpoints
+logs/
+__init__.py
+*checkpoint*
+.ipynb_checkpoints
+vae_conv/
+fc_net/
+evaluation/
+support/
+training/
+*.zip
+
